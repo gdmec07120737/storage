@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:6
+-keep class cn.edu.gdmec.x071200737.storage.MyStorage { <init>(...); }
+
